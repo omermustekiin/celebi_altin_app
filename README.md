@@ -56,6 +56,18 @@ Celebi Altin is a live stock market application created with Flutter. I took par
     <td><img src="https://play-lh.googleusercontent.com/1Przp8eWeeTwyallmJ59iwfa62M0ZSGmnfojAl9nDwnr55nJL4apnKYQiRDirOjesaM=w2560-h1440-rw" width=300 height=500></td>
   </tr>
  </table>
+ 
+ <table>
+  <tr>
+     <td>Follow List Screen</td>
+     <td>Contact Us Screen</td>
+     <td>Converter Screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://play-lh.googleusercontent.com/KW-w7H1uxWU4Pn_qJuyD8CUbarvwbCkmO6CpOY0ExAijsewzwvrbgmioC7bjBT7yla4=w2560-h1440-rw" width=300 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/bKrbgMa25A1anF75y7kdzvn5C5ReRSv8Jnp1uPGRvlE7khzl2vbNhwprxAhPX_2sKG8=w2560-h1440-rw" width=300 height=500></td>
+  </tr>
+ </table>
 
 
 
