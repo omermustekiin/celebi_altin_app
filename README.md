@@ -1,6 +1,6 @@
 # Celebi Altin
 
-![](https://play-lh.googleusercontent.com/SjhZM7rvrYVzr_UwTIiLyNlXHO_Q8hi9g2ymlvVRqpsXPC9JH6Y-EKKoQTsLSs-a2vt5)
+![](https://play-lh.googleusercontent.com/SjhZM7rvrYVzr_UwTIiLyNlXHO_Q8hi9g2ymlvVRqpsXPC9JH6Y-EKKoQTsLSs-a2vt5=250x250)
 
 Celebi Altin is a live stock market application created with Flutter. I took part in all stages from design to testing alone and after a 2 month process, i published the first version of the application for both store.
 ### Main Features
