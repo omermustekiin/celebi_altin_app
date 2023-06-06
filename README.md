@@ -51,9 +51,9 @@ Celebi Altin is a live stock market application created with Flutter. I took par
      <td>Converter Screen</td>
   </tr>
   <tr>
-    <td><img src="https://play-lh.googleusercontent.com/pdUa-MCt_y8l1LTnBYjPu4_A3V3t0LCvTuF1QfjHf-_o0n7Qx6uAU5dqlqIU4dbxuyUz=w2560-h1440-rw" width=270 height=480></td>
-    <td><img src="https://play-lh.googleusercontent.com/jwi16e9Ch3FnKiZnEq_4h1hiU32y3W0jfTY9nH92GkKYSfX_dS2RHf82NVPIEO_tzUU=w2560-h1440-rw" width=270 height=480></td>
-    <td><img src="https://play-lh.googleusercontent.com/1Przp8eWeeTwyallmJ59iwfa62M0ZSGmnfojAl9nDwnr55nJL4apnKYQiRDirOjesaM=w2560-h1440-rw" width=270 height=480></td>
+    <td><img src="https://play-lh.googleusercontent.com/pdUa-MCt_y8l1LTnBYjPu4_A3V3t0LCvTuF1QfjHf-_o0n7Qx6uAU5dqlqIU4dbxuyUz=w2560-h1440-rw" width=310 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/jwi16e9Ch3FnKiZnEq_4h1hiU32y3W0jfTY9nH92GkKYSfX_dS2RHf82NVPIEO_tzUU=w2560-h1440-rw" width=310 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/1Przp8eWeeTwyallmJ59iwfa62M0ZSGmnfojAl9nDwnr55nJL4apnKYQiRDirOjesaM=w2560-h1440-rw" width=310 height=500></td>
   </tr>
  </table>
 
