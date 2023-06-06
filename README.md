@@ -1,8 +1,7 @@
 # Celebi Altin
 
-
-
 Celebi Altin is a live stock market application created with Flutter. I took part in all stages from design to testing alone and after a 2 month process, i published the first version of the application for both store.
+
 ### Main Features
 
 - Live exchange rates in different categories,
@@ -38,9 +37,10 @@ Celebi Altin is a live stock market application created with Flutter. I took par
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td><img src="[screenshots/Screenshot_1582745092.png](https://is5-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/71/3b/1f/713b1f57-04c6-4100-7018-96515408ad0a/1818f859-5004-4e4b-9267-4578be778c23_1290x2796-1.jpg/230x0w.webp)" width=270 height=480></td>
+    <td><img src="![img|320x271,50%](https://play-lh.googleusercontent.com/SjhZM7rvrYVzr_UwTIiLyNlXHO_Q8hi9g2ymlvVRqpsXPC9JH6Y-EKKoQTsLSs-a2vt5)" width=270 height=480></td>
     <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
     <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+    
   </tr>
  </table>
 
