@@ -39,30 +39,23 @@ Celebi Altin is a live stock market application created with Flutter. I took par
   <tr>
     <td><img src="https://play-lh.googleusercontent.com/6EinVFx0RU1SZxm5dkijT5bvq5j-G2BMvyZaAQAznPMsUwEAWnVex85Z4CgiLnBidRa1=w2560-h1440-rw" width=270 height=480></td>
     <td><img src="https://play-lh.googleusercontent.com/eIhcL3wpLkox4CZm0v8AEe2ydQbNCHOMHhzUCR7dwxSJ5J7nY3hcbBto7BM0NBwM5A=w2560-h1440-rw" width=270 height=480></td>
-    <td><img src="https://is5-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6b/ba/dd/6bbaddc6-a1db-72c7-0a96-13d3c64019c5/746c6858-bbe6-4b6b-9793-a607b705fa4c_1290x2796-6.jpg/230x0w.webp" width=270 height=480></td>
+    <td><img src="https://play-lh.googleusercontent.com/a1ybkUx8VFWUc5gcCY1JmuPhxLNTlYdR2tJdhu4J8zLCu_mAZ0tsf7bZIMS7ccvCSINk=w2560-h1440-rw" width=270 height=480></td>
   </tr>
  </table>
-
-![](https://play-lh.googleusercontent.com/6EinVFx0RU1SZxm5dkijT5bvq5j-G2BMvyZaAQAznPMsUwEAWnVex85Z4CgiLnBidRa1=w526-h296-rw)
-
-> Welcome Screen.
-
-<img src="https://play-lh.googleusercontent.com/eIhcL3wpLkox4CZm0v8AEe2ydQbNCHOMHhzUCR7dwxSJ5J7nY3hcbBto7BM0NBwM5A=w2560-h1440-rw" width="150" height="280">
-
-> Home Screen.
-
-![](https://is5-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6b/ba/dd/6bbaddc6-a1db-72c7-0a96-13d3c64019c5/746c6858-bbe6-4b6b-9793-a607b705fa4c_1290x2796-6.jpg/230x0w.webp)
-
-> Side Menu Bar
-
-![](https://is3-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/94/d9/4994d9af-b4a5-af16-16e9-6d738f291132/09ccc40c-9857-4a78-929d-47544b57a446_1290x2796-3.jpg/230x0w.webp)
-
-> Gold Screen.
-
-
-![](https://is5-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/71/3b/1f/713b1f57-04c6-4100-7018-96515408ad0a/1818f859-5004-4e4b-9267-4578be778c23_1290x2796-1.jpg/230x0w.webp)
-
-> Converter Screen.
+ 
+ 
+<table>
+  <tr>
+     <td>Gold Screen</td>
+     <td>Alarm Screen</td>
+     <td>Converter Screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://play-lh.googleusercontent.com/pdUa-MCt_y8l1LTnBYjPu4_A3V3t0LCvTuF1QfjHf-_o0n7Qx6uAU5dqlqIU4dbxuyUz=w2560-h1440-rw" width=270 height=480></td>
+    <td><img src="https://play-lh.googleusercontent.com/jwi16e9Ch3FnKiZnEq_4h1hiU32y3W0jfTY9nH92GkKYSfX_dS2RHf82NVPIEO_tzUU=w2560-h1440-rw" width=270 height=480></td>
+    <td><img src="https://play-lh.googleusercontent.com/1Przp8eWeeTwyallmJ59iwfa62M0ZSGmnfojAl9nDwnr55nJL4apnKYQiRDirOjesaM=w2560-h1440-rw" width=270 height=480></td>
+  </tr>
+ </table>
 
 
 
