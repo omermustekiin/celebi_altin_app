@@ -63,18 +63,29 @@ Celebi Altin is a live stock market application created with Flutter. I took par
      <td>Contact Us Screen</td>
   </tr>
   <tr>
-    <td><img src="https://play-lh.googleusercontent.com/KW-w7H1uxWU4Pn_qJuyD8CUbarvwbCkmO6CpOY0ExAijsewzwvrbgmioC7bjBT7yla4=w2560-h1440-rw" width=300 height=500></td>
-    <td><img src="https://play-lh.googleusercontent.com/bKrbgMa25A1anF75y7kdzvn5C5ReRSv8Jnp1uPGRvlE7khzl2vbNhwprxAhPX_2sKG8=w2560-h1440-rw" width=300 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/KW-w7H1uxWU4Pn_qJuyD8CUbarvwbCkmO6CpOY0ExAijsewzwvrbgmioC7bjBT7yla4=w2560-h1440-rw" width=280 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/bKrbgMa25A1anF75y7kdzvn5C5ReRSv8Jnp1uPGRvlE7khzl2vbNhwprxAhPX_2sKG8=w2560-h1440-rw" width=280 height=500></td>
   </tr>
  </table>
  
  ### Watch Introduction Video
-[<img src="https://i.ytimg.com/vi/8RfcUEa6E5g/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=8RfcUEa6E5g "Now in Android: 55")
+[<img src="https://i.ytimg.com/vi/8RfcUEa6E5g/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=8RfcUEa6E5g "Click and watch")
 
 
 
 ### View or Download
 ![](https://play-lh.googleusercontent.com/SjhZM7rvrYVzr_UwTIiLyNlXHO_Q8hi9g2ymlvVRqpsXPC9JH6Y-EKKoQTsLSs-a2vt5)
+<img src="https://play-lh.googleusercontent.com/bKrbgMa25A1anF75y7kdzvn5C5ReRSv8Jnp1uPGRvlE7khzl2vbNhwprxAhPX_2sKG8=w2560-h1440-rw" width=180 height=200>
+<table>
+  <tr>
+     <td>Google Play Store</td>
+     <td>App Store</td>
+  </tr>
+  <tr>
+    <td><img src="https://yt3.googleusercontent.com/UlCw6skRB67meHd_jffAzV6DeXzAk1YzEFyhxI4meSgYAjA0wRhEnhT3TfHvuo7R-VwISzRTTao=s900-c-k-c0x00ffffff-no-rj" width=180 height=200></td>
+    <td><img src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png" width=180 height=200></td>
+  </tr>
+ </table>
 
 [Google Play Store](https://play.google.com/store/apps/details?id=com.celebi.altin_app)
 
