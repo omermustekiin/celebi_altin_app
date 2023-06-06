@@ -1,6 +1,5 @@
 #Celebi Altin
-![([https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png](https://yt3.googleusercontent.com/it4mba1wxPnOgJIDmUX8JF-bz0UXOfWA0AH9yRoDi7Bk8VAxqy8eBqhSxAotEpbx7Pn0UcUR3w=s900-c-k-c0x00ffffff-no-rj))]
-
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png](https://yt3.googleusercontent.com/it4mba1wxPnOgJIDmUX8JF-bz0UXOfWA0AH9yRoDi7Bk8VAxqy8eBqhSxAotEpbx7Pn0UcUR3w=s900-c-k-c0x00ffffff-no-rj)
 Celebi Altin is a live stock market application created with Flutter. I took part in all stages from design to testing alone and after a 2 month process, i published the first version of the application for both store.
 ### Main Features
 
