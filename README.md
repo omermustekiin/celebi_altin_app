@@ -14,6 +14,8 @@ Celebi Altin is a live stock market application created with Flutter. I took par
 
 - Calculator that can save past calculations,
 
+- Dynamic product screen (Bracelet Models) created by utilizing Firebase Storage,
+
 - Authentication module only for necessary transactions,
 
 - User account transactions,
