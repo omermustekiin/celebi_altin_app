@@ -45,7 +45,7 @@ This project receives txt type data by establishing a TCP socket connection with
   <tr>
     <td><img src="https://play-lh.googleusercontent.com/6EinVFx0RU1SZxm5dkijT5bvq5j-G2BMvyZaAQAznPMsUwEAWnVex85Z4CgiLnBidRa1=w2560-h1440-rw" width=320 height=500></td>
     <td><img src="https://play-lh.googleusercontent.com/eIhcL3wpLkox4CZm0v8AEe2ydQbNCHOMHhzUCR7dwxSJ5J7nY3hcbBto7BM0NBwM5A=w2560-h1440-rw" width=290 height=500></td>
-    <td><img src="https://play-lh.googleusercontent.com/a1ybkUx8VFWUc5gcCY1JmuPhxLNTlYdR2tJdhu4J8zLCu_mAZ0tsf7bZIMS7ccvCSINk=w2560-h1440-rw" width=290 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/9sIaaHg2d8-9nGJB9uFVQrKTtLebVUzL8KZIWjGIsx33qLOmDNqjyVWU_upiWtSeAH3a=w2560-h1440-rw" width=290 height=500></td>
   </tr>
  </table>
  
@@ -65,10 +65,12 @@ This project receives txt type data by establishing a TCP socket connection with
  
  <table>
   <tr>
+     <td>Bracelet Models Screen</td>
      <td>Follow List Screen</td>
      <td>Contact Us Screen</td>
   </tr>
   <tr>
+    <td><img src="https://play-lh.googleusercontent.com/Jc6YjCpfiJxxidOxP0KsI6m_uXCREaKPcCtNhW0z8dQMKjyOTaq1hBWmRMFDzehCRxg=w2560-h1440-rw" width=290 height=500></td>
     <td><img src="https://play-lh.googleusercontent.com/KW-w7H1uxWU4Pn_qJuyD8CUbarvwbCkmO6CpOY0ExAijsewzwvrbgmioC7bjBT7yla4=w2560-h1440-rw" width=290 height=500></td>
     <td><img src="https://play-lh.googleusercontent.com/bKrbgMa25A1anF75y7kdzvn5C5ReRSv8Jnp1uPGRvlE7khzl2vbNhwprxAhPX_2sKG8=w2560-h1440-rw" width=290 height=500></td>
   </tr>
