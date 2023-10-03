@@ -57,7 +57,7 @@ This project receives txt type data by establishing a TCP socket connection with
      <td>Converter Screen</td>
   </tr>
   <tr>
-    <td><img src="https://play-lh.googleusercontent.com/pdUa-MCt_y8l1LTnBYjPu4_A3V3t0LCvTuF1QfjHf-_o0n7Qx6uAU5dqlqIU4dbxuyUz=w2560-h1440-rw" width=290 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/siHXcDHY7pQbpNYCzXZUdxohOhT2yhzN-Rs9QxL90A8yht46M3hQ7cqVW4yMC15I52g5=w2560-h1440-rw" width=290 height=500></td>
     <td><img src="https://play-lh.googleusercontent.com/jwi16e9Ch3FnKiZnEq_4h1hiU32y3W0jfTY9nH92GkKYSfX_dS2RHf82NVPIEO_tzUU=w2560-h1440-rw" width=290 height=500></td>
     <td><img src="https://play-lh.googleusercontent.com/1Przp8eWeeTwyallmJ59iwfa62M0ZSGmnfojAl9nDwnr55nJL4apnKYQiRDirOjesaM=w2560-h1440-rw" width=290 height=500></td>
   </tr>
@@ -71,7 +71,7 @@ This project receives txt type data by establishing a TCP socket connection with
   </tr>
   <tr>
     <td><img src="https://play-lh.googleusercontent.com/Jc6YjCpfiJxxidOxP0KsI6m_uXCREaKPcCtNhW0z8dQMKjyOTaq1hBWmRMFDzehCRxg=w2560-h1440-rw" width=290 height=500></td>
-    <td><img src="https://play-lh.googleusercontent.com/KW-w7H1uxWU4Pn_qJuyD8CUbarvwbCkmO6CpOY0ExAijsewzwvrbgmioC7bjBT7yla4=w2560-h1440-rw" width=290 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/L8Glv1M71jJwxZq2G6gJiSxPHjxE3Ob1BxN1DVjDeaX8If8R1Y8y3v7FBylNdI0Ji9I=w2560-h1440-rw" width=290 height=500></td>
     <td><img src="https://play-lh.googleusercontent.com/bKrbgMa25A1anF75y7kdzvn5C5ReRSv8Jnp1uPGRvlE7khzl2vbNhwprxAhPX_2sKG8=w2560-h1440-rw" width=290 height=500></td>
   </tr>
  </table>
