@@ -18,6 +18,8 @@ This project receives txt type data by establishing a TCP socket connection with
 
 - Calculator that can save past calculations,
 
+- Bracelet Models page that works dynamically with the database,
+
 - Dynamic product screen (Bracelet Models) created by utilizing Firebase Storage,
 
 - Authentication module only for necessary transactions,
